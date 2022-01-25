@@ -1,3 +1,5 @@
+This quickly evolved from just being music recs..
+
 || MUSIC ||
 
 Alan Hovhannes
@@ -20,3 +22,11 @@ Monster
 Neon Genesis Evangelion
 Yotsubato
 Urusei Yatsura
+
+|| EDUCATION RESOURCES ||
+
+// Computer Science
+Open Source Society University: https://github.com/ossu/computer-science#advanced-cs
+  - a free CS degree-equivalent education 
+  
+// Web Development
