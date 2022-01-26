@@ -28,5 +28,6 @@ Urusei Yatsura
 // Computer Science
 Open Source Society University: https://github.com/ossu/computer-science#advanced-cs
   - a free CS degree-equivalent education 
+[BOOK] Operating System Concepts: http://web.cse.ohio-tate.edu/~soundarajan.1/courses/3430/silberschatz8thedition.pdf
   
 // Web Development
