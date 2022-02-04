@@ -2,7 +2,7 @@ This quickly evolved from just being music recs..
 
 || MUSIC ||
 
-Alan Hovhannes
+Alan Hovhannes - < japanese-inspired music >
 Elena Ruehr - Shimmer
 Francois Couperin - La Verneuille
 Mario Castelnuovo-Tedesco - A Winter's Tale
@@ -14,6 +14,16 @@ Shostakovich - Jazz Suite No. 1 {Royal Concertgebouw Orchestra}
 The Lost Voyage of Shackleton
 Radiolab
 How Did This Get Made
+
+|| MOVIES || 
+
+// Jidaigeki
+The Hidden Fortress
+Orochi (1925)
+Humanity and Paper Balloons
+Gate of Hell
+Hiroshi Inagaki's Samurai Trilogy (  about Miyamoto Musashi )
+Ran
 
 || MANGA ||
 
